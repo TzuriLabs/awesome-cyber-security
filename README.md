@@ -1,70 +1,88 @@
-# Awesome Pentest
+# Cyber Security Tools
 
-A whole bunch of resources for fast & easy reference used specifically for web app application & network pentesting.
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-## Pentesting Steps
+> A list of cyber security tools that you can use for both red and blue teaming.
 
-1. [Reconnaisance](#1-reconnaisance)
-2. [Scanning / Enumeration](#2-scanning--enumeration)
-3. [Gaining Access / Exploitation](#3-gaining-access--exploitation)
-4. [Maintaining Access](#4-maintaining-access)
-5. [Clearing Tracks](#5-clearing-tracks)
+## Table of Contents
 
-## Introduction
+- [Security Frameworks](#security-frameworks)
+- [Red Teaming](#red-teaming)
+  - [Web Application Pentesting](#web-application-pentesting)
+  - [Network Pentesting](#network-pentesting)
+  - [Mobile Application Pentesting](#mobile-application-pentesting)
+  - [Physical Pentesting](#physical-pentesting)
+  - [Adversary Simulation (Red Teaming)](#adversary-simulation)
+  - [Social Engineering](#social-engineering)
+- [Blue Teaming](#blue-teaming)
+  - [Network Security](#network-security)
+  - [Software Security](#software-security)
+  - [Incident Response](#incident-response)
+  - [Threat Hunting](#threat-hunting)
+  - [Vulnerability Management](#vulnerability-management)
+  - [SOC Management](#soc-management)
+  - [Log and Data Analysis](#log-analysis)
+  - [Security Policy and Compliance](#security-policy)
+  - [User Awareness and Training](#user-awareness-)
 
-### What is Pentesting?
+## Red Teaming
 
-A penetration test, colloquially known as a pentest, is an authorized simulated cyberattack on a computer system, performed to evaluate the security of the system. ([Wikipedia](https://en.wikipedia.org/wiki/Penetration_test))
+### Penetration Testing
 
-### What is Web App (Application) Pentesting?
+#### Web Application Pentesting
 
-A web application penetration test is a type of ethical hacking engagement designed to assess the architecture, design and configuration of web applications. Assessments are conducted to identify cyber security risks that could lead to unauthorised access and/or data exposure. ([redscan](https://www.redscan.com/services/penetration-testing/web-application-testing/))
+##### 1. Reconnaisance
 
-### What is Network Pentesting?
+- [Recon-ng](https://github.com/lanmaster53/recon-ng) - A web reconnaissance framework that provides a powerful environment for open-source web-based reconnaissance.
+- [Google Dorking](https://www.exploit-db.com/google-hacking-database) - A technique that uses advanced Google search operators to find sensitive information exposed on the web.
 
-Network penetration testing is an attempt by an ethical hacker to breach an organization’s network without doing harm. The objective is to identify security weaknesses in the network and its security controls, report on them, and allow the organization to remediate them. ([brightsec](https://brightsec.com/blog/network-penetration-testing/))
+###### 2. Scanning & Enumeration
 
-## 1. Reconnaisance
+- [Burpsuite](https://portswigger.net/burp) - A popular web application security testing tool that includes features for scanning, crawling, and analyzing web applications.
+- [OWASP ZAP](https://www.zaproxy.org/) - An open-source web application security scanner that helps find security vulnerabilities in web applications.
+- [Nikto](https://github.com/sullo/nikto) - A web server scanner that performs comprehensive tests against web servers for multiple items, including outdated server software, and vulnerabilities.
+- [Acunetics](https://www.acunetix.com/) - An automated web application security scanner that checks for vulnerabilities like SQL injection, XSS, and more.
 
-### What is Reconnaisance?
+###### 3. Gaining Access / Exploitation
 
-### Tools / Methods Used
+- [SQLMap](https://sqlmap.org/) - An open-source penetration testing tool that automates the process of detecting and exploiting SQL injection vulnerabilities.
+- [XSSer](https://github.com/epsylon/xsser) - a tool to exploit XSS vulnerabilities.
+- [Burpsuite (Intruder)](https://portswigger.net/burp) - Besides scanning, Burp's Intruder tool can be used for brute-forcing and payload injection.
+- [Hydra](https://github.com/vanhauser-thc/thc-hydra) - A popular password-cracking tool used for conducting rapid dictionary attacks against various protocols.
+- [BeEF](https://beefproject.com/) - a powerful tool that can perform various tasks aimed at exploiting vulnerabilities in web browsers.
 
-- Google Dork (method): Google Dorking/Hacking is a method attackers use to find sensitive information concerning vulnerabilities in applications indexed by Google. ([imperva](https://www.imperva.com/learn/application-security/google-dorking-hacking/))
-  - https://dnsdumpster.com/
-  - https://searchdns.netcraft.com/
-  - https://www.virustotal.com (Go to search and
-    type target.com)
-  - https://crt.sh/?q=%25paypal.com (Use “%target.com”. )
-- [shodan](https://www.shodan.io/): The world's first search engine for Internet-connected devices. Discover how Internet intelligence can help you make better decisions. ([shodan](https://www.shodan.io/))
-- Gobuster
-- Sublist3r
-- FFuF
+#### Network Pentesting
 
-## 2. Scanning / Enumeration
+##### 1. Reconnaisance
 
-### What is Scanning / Enumeration?
+- [Maltego](https://www.maltego.com/) - A tool for open-source intelligence (OSINT) and forensics that can visualize relationships between data.
+- [Harvester](https://github.com/laramies/theHarvester) - A tool used for gathering e-mail accounts and subdomain names from different public sources (search engines, pgp key servers).
+- [DNSRecon](https://github.com/darkoperator/dnsrecon) - A DNS reconnaissance tool that performs various DNS enumeration techniques.
 
-### Tools / Methods Used
+###### 2. Scanning & Enumeration
 
-## 3. Gaining Access / Exploitation
+- [Nmap](https://nmap.org/) - A powerful network scanner used for discovering hosts and services on a computer network.
+- [Nessus](https://www.tenable.com/products/nessus) - A widely used vulnerability scanner that identifies vulnerabilities in systems and applications.
+- [Wireshark](https://www.wireshark.org/) - A network protocol analyzer that captures and analyzes network traffic, useful for troubleshooting and identifying vulnerabilities.
 
-### What is Gaining Access / Exploitation?
+###### 3. Gaining Access / Exploitation
 
-### Tools / Methods Used
+- [Metasploit](https://www.metasploit.com/) - A widely used penetration testing framework that includes a range of exploits and payloads to gain access to systems.
+- [Hydra](https://github.com/vanhauser-thc/thc-hydra) - A fast network logon cracker that supports numerous protocols for password guessing.
+- [Aircrack-ng](https://www.aircrack-ng.org/) - A suite of tools for assessing Wi-Fi network security, including capturing packets and cracking WEP/WPA/WPA2 keys.
 
-## 4. Maintaining Access
+###### 4. Maintaining Access
 
-### What is Maintaining Access?
+- [Netcat](https://nmap.org/ncat/) - A networking utility that can create TCP/UDP connections and is often used for creating backdoors.
+- [Meterpreter](https://docs.metasploit.com/docs/using-metasploit/advanced/meterpreter/meterpreter.html) - A payload within Metasploit that allows for post-exploitation, providing a command shell and extensive features for maintaining access.
+- [Empire](https://www.alpinesecurity.com/blog/empire-a-powershell-post-exploitation-tool/) - A post-exploitation framework that uses PowerShell agents for persistence and control.
+- [Cobalt Strike](https://www.cobaltstrike.com/) - A commercial penetration testing tool that provides advanced features for post-exploitation and persistence.
+- [RATs (Remote Access Trojans)](https://www.techtarget.com/searchsecurity/definition/RAT-remote-access-Trojan) - Tools like DarkComet or NjRAT allow attackers to maintain remote control over compromised systems.
 
-### Tools / Methods Used
+###### 5. Clearing Tracks
 
-## 5. Clearing Tracks
-
-### What is Clearing Tracks?
-
-### Tools / Methods Used
-
-## References
-
-- https://theunixe.medium.com/recon-for-web-pen-testing-6a6333673818
+- [CCleaner](https://www.ccleaner.com) - A tool used to remove unnecessary files and clear logs to cover tracks after an attack.
+- [Metasploit (Clearing Logs / Post Exploitation Modules)](https://www.metasploit.com/) - Metasploit's post-exploitation modules can assist in clearing logs and covering tracks.
+- [Timestomp](https://viperone.gitbook.io/pentest-everything/everything/everything-active-directory/defense-evasion/indicator-removal/timestomp) - A tool that allows users to modify file timestamps to obscure evidence of access or modification.
+- [Sysinternals Suite](https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite) - A collection of utilities (like PsExec) that can help manage and hide processes, as well as clear logs.
+- [Rootkits](https://www.kaspersky.com/resource-center/definitions/what-is-rootkit) - Though illegal and unethical for legitimate pentesting, rootkits can hide files and processes from detection.
