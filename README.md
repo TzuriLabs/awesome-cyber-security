@@ -179,6 +179,11 @@
 
 ### Software Security
 
+- [Microsoft Threat Modelling Tool](https://learn.microsoft.com/en-us/security/engineering/threat-modeling-tool) - A tool that helps identify and address security threats early in the software development process by creating threat models.
+- [SonarQube](https://www.sonarqube.org/) - An open-source platform that automatically inspects code quality and security vulnerabilities during development.
+- [Semgrep](https://semgrep.dev/) - A fast and customizable static analysis tool for finding security vulnerabilities and enforcing code standards.
+- [ZAP-Cli](https://github.com/Grunny/zap-cli) - A command-line interface for OWASP ZAP that automates web application security scanning and testing.
+
 ### Network Security
 
 #### Malware Analysis
