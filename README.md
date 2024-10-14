@@ -6,9 +6,9 @@
 
 - [Learning Resources](#learning-resources)
   - [Basic Concepts](#basic-concepts)
+  - [Cyber Security Learning Platforms](#cyber-security-learning-platforms)
   - [Books](#books)
   - [Youtube Channels](#youtube-channels)
-  - [Cyber Security Learning Platforms](#cyber-security-learning-platforms)
   - [CTF Platforms](#ctf-platforms)
 - [Certifications](#certifications)
   - [Red Team Certifications](#red-team-certifications)
@@ -41,6 +41,17 @@
 - [Relational Database fundamentals with SQL (Freecodecamp)](https://www.freecodecamp.org/learn/relational-database/) - A course that teaches relational database concepts and SQL for querying and managing databases.
 - [Backend API fundamentals using Expressjs (Freecodecamp)](https://www.freecodecamp.org/learn/back-end-development-and-apis/) - A course focused on building backend APIs using Express.js, teaching how to handle HTTP requests and data.
 
+### Cyber Security Learning Platforms
+
+- [HackTheBox Academy](https://academy.hackthebox.com) - A learning platform by HackTheBox offering structured courses on hacking and cybersecurity skills.
+- [TryHackMe](https://tryhackme.com) - An interactive site where users can learn and practice cybersecurity with hands-on labs and challenges.
+- [Portswigger Web Security Learning](https://portswigger.net/web-security/learning-paths) - A resource that teaches web security through guided learning paths and interactive labs focused on real-world vulnerabilities.
+- [CyberDefenders](https://cyberdefenders.org/) - A platform providing blue team (defense) challenges and training for cybersecurity professionals.
+- [CryptoHack](https://cryptohack.org/) - A platform focused on cryptography challenges, helping users learn and practice breaking cryptographic systems.
+- [Pwnable](https://pwnable.tw/) - A site with reverse engineering and binary exploitation challenges designed to improve hacking skills.
+- [PwnCollege](https://pwn.college/) - An educational platform offering courses on cybersecurity, with a focus on binary exploitation and advanced topics.
+- [Crackmes](https://crackmes.one/) - A community-driven platform where users can solve reverse engineering challenges (crackmes) to enhance their skills.
+
 ### Books
 
 - [Web Application Hacker's Handbook](https://books.google.co.id/books/about/The_Web_Application_Hacker_s_Handbook.html?id=NSBHAAAAQBAJ&source=kp_book_description&redir_esc=y) - A comprehensive guide to discovering, exploiting, and securing web application vulnerabilities.
@@ -65,17 +76,6 @@
 - [Insider PhD](https://www.youtube.com/@InsiderPhD) - Bug bounty tutorials and tips for beginners in cybersecurity.
 - [With Sandra](https://www.youtube.com/@WithSandra) - Cybersecurity career advice and practical hacking tutorials.
 - [Unix Guy](https://www.youtube.com/@UnixGuy) - Tutorials on Linux, Unix systems, and security.
-
-### Cyber Security Learning Platforms
-
-- [HackTheBox Academy](https://academy.hackthebox.com) - A learning platform by HackTheBox offering structured courses on hacking and cybersecurity skills.
-- [TryHackMe](https://tryhackme.com) - An interactive site where users can learn and practice cybersecurity with hands-on labs and challenges.
-- [Portswigger Web Security Learning](https://portswigger.net/web-security/learning-paths) - A resource that teaches web security through guided learning paths and interactive labs focused on real-world vulnerabilities.
-- [CyberDefenders](https://cyberdefenders.org/) - A platform providing blue team (defense) challenges and training for cybersecurity professionals.
-- [CryptoHack](https://cryptohack.org/) - A platform focused on cryptography challenges, helping users learn and practice breaking cryptographic systems.
-- [Pwnable](https://pwnable.tw/) - A site with reverse engineering and binary exploitation challenges designed to improve hacking skills.
-- [PwnCollege](https://pwn.college/) - An educational platform offering courses on cybersecurity, with a focus on binary exploitation and advanced topics.
-- [Crackmes](https://crackmes.one/) - A community-driven platform where users can solve reverse engineering challenges (crackmes) to enhance their skills.
 
 ### CTF Platforms
 
@@ -115,7 +115,20 @@
 - [Certified SOC Analyst (CSA)](https://www.eccouncil.org/programs/certified-soc-analyst-csa/) - A certification tailored for SOC roles, focusing on skills required for effective security operations.
 - [Cisco Certified CyberOps Associate](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/cyberops-associate.html) - A certification providing knowledge and skills for security operations in network environments.
 
+## Security Frameworks
+
+- [OWASP Top Ten](https://owasp.org/www-project-top-ten/) - A widely recognized list of the ten most critical web application security risks, providing guidance on vulnerabilities and best practices for developers and security professionals.
+- [OWASP ASVS (Application Security Verification Standard)](https://owasp.org/www-project-application-security-verification-standard/) - A framework for designing, developing, and testing secure web applications, providing a basis for assessing security controls.
+- [CWE (Common Weakness Enumeration)](https://cwe.mitre.org/) - A community-developed list of common software and hardware weaknesses that can lead to security vulnerabilities, serving as a guide for secure coding practices.
+- [SANS Top 25 Software Errors](https://www.sans.org/top25-software-errors/) - A list identifying the 25 most dangerous software errors that can lead to vulnerabilities in web applications, offering guidance for prevention.
+- [ISO/IEC 27032](https://www.iso.org/standard/43733.html) - An international standard providing guidelines for cybersecurity, focusing on the protection of information in cyberspace and addressing network security considerations.
+- [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework) - A flexible framework that provides guidelines for managing and mitigating cybersecurity risks, including those related to network security.
+- [Fortinet Security Fabric](https://www.fortinet.com/products/security-fabric) - A comprehensive cybersecurity framework designed by Fortinet, integrating various security solutions to protect network infrastructure from threats.
+- [MITRE ATT&CK](https://attack.mitre.org/) - A knowledge base that provides a framework for understanding and defending against cyber adversaries, including tactics and techniques that can affect network security.
+
 ## Bug Bounties
+
+> Some bug bounty programs where you can find vulnerabilities and get bounties for it
 
 - [Hackerone](https://www.hackerone.com) - A leading bug bounty platform that connects businesses with ethical hackers to find and report security vulnerabilities.
 - [Bugcrowd](https://www.bugcrowd.com) - A crowdsourced cybersecurity platform offering bug bounty programs to help organizations identify and fix vulnerabilities.
@@ -134,6 +147,8 @@
 - [Hack The Box Podcast](https://open.spotify.com/show/7gZfFFV5YYR8rfk0edMrzC) - The official Hack The Box podcast that discusses ethical hacking, cybersecurity challenges, and interviews with security professionals.
 - [Langley Files](https://open.spotify.com/show/72dVchCyKQD5p8UYv4hwA9) - A podcast by the CIA offering a behind-the-scenes look at intelligence, cybersecurity, and national security issues.
 ## Tools
+
+> A list of tools used in cyber security which includes web app pentesting, network pentesting, software security and network security
 
 ### Web Application Pentesting
 
