@@ -176,3 +176,46 @@
 - [Timestomp](https://viperone.gitbook.io/pentest-everything/everything/everything-active-directory/defense-evasion/indicator-removal/timestomp) - A tool that allows users to modify file timestamps to obscure evidence of access or modification.
 - [Sysinternals Suite](https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite) - A collection of utilities (like PsExec) that can help manage and hide processes, as well as clear logs.
 - [Rootkits](https://www.kaspersky.com/resource-center/definitions/what-is-rootkit) - Though illegal and unethical for legitimate pentesting, rootkits can hide files and processes from detection.
+
+### Software Security
+
+### Network Security
+
+#### Malware Analysis
+
+- [Detect It Easy (DIE)](https://ntinfo.biz/index.html) - A tool for identifying and analyzing file formats and executable packers to help with reverse engineering.
+- [Ghidra](https://ghidra-sre.org/) - An open-source software reverse engineering tool developed by the NSA, providing powerful decompilation and analysis capabilities.
+- [IDA Pro](https://hex-rays.com/ida-pro/) - A widely used disassembler and debugger for reverse engineering applications and malware analysis.
+- [Radare 2](https://rada.re/n/) - A free and open-source reverse engineering framework offering disassembly, debugging, and binary analysis features.
+- [JADX](https://github.com/skylot/jadx) - A decompiler for Android applications, converting APK files back into readable Java source code.
+- [Any Run](https://any.run/) - An interactive online malware analysis service that allows users to run and analyze malicious files in real time.
+- [Triage](https://tria.ge/) - A cloud-based automated malware analysis platform designed for quick and efficient analysis of suspicious files.
+- [Cuckoo Sandbox](https://cuckoosandbox.org/) - An open-source automated malware analysis system that runs suspicious files in an isolated environment to observe behavior.
+
+#### Intrusion Detection / Prevention System (IDS / IPS)
+
+- [Snort](https://www.snort.org/) - An open-source intrusion detection and prevention system (IDS/IPS) capable of real-time traffic analysis and packet logging.
+- [Suricata](https://suricata.io/) - A high-performance, open-source IDS, IPS, and network security monitoring engine that can handle multi-threaded traffic analysis.
+- [OSSEC](https://www.ossec.net/) - An open-source host-based intrusion detection system (HIDS) that monitors logs, detects anomalies, and provides real-time alerting.
+- [Zeek](https://zeek.org/) - A network security monitoring tool that analyzes traffic and provides deep inspection and logging of network activity.
+- [Security Onion](https://securityonion.net/) - A free and open-source Linux distribution for intrusion detection, network security monitoring, and log management.
+
+#### Honeypots
+
+- [Dionaea](https://github.com/DinoTools/dionaea) - A low-interaction honeypot designed to capture malware and network attacks by emulating vulnerable services.
+- [Glastopf](https://github.com/mushorg/glastopf) - A web application honeypot that emulates vulnerable websites to gather information on web-based attacks.
+- [Cowrie](https://github.com/cowrie/cowrie) - A medium-interaction SSH and Telnet honeypot designed to log brute-force attacks and shell commands.
+- [Kippo](https://github.com/desaster/kippo) - A medium-interaction SSH honeypot focused on logging brute-force login attempts and simulating an interactive shell.
+- [Laravel application honeypot](https://github.com/haruncpi/laravel-honeypot) - A honeypot package for Laravel applications to protect against automated form submissions and spam.
+- [Wordpress honeypots](https://github.com/orthros/dorknet) - Honeypot setups specifically designed to capture attacks targeting vulnerabilities in WordPress installations.
+- [Honeyd](http://www.honeyd.org/) - A versatile low-interaction honeypot that simulates various network services and hosts to detect and log network activity.
+- [Mongodb honeypot proxy](https://github.com/chrislockard/mongo_honeypot) - A honeypot proxy that simulates MongoDB servers to capture and analyze malicious activity targeting exposed databases.
+
+#### SIEM
+
+- [Wazuh](https://wazuh.com/) - An open-source security monitoring platform that offers SIEM, intrusion detection, and compliance management.
+- [Splunk](https://www.splunk.com/) - A powerful SIEM solution that collects, analyzes, and visualizes machine data in real-time for security monitoring and analytics.
+- [IBM Security QRadar](https://www.ibm.com/products/qradar-siem) - An enterprise-level SIEM that helps detect, analyze, and respond to security threats across the network.
+- [Rapid7 InsightIDR](https://www.rapid7.com/products/insightidr/) - A cloud-based SIEM tool that focuses on detecting intrusions, investigating security incidents, and automating responses.
+- [Fortinet FortiSIEM](https://www.fortinet.com/products/siem/fortisiem) - A comprehensive SIEM that combines real-time monitoring, event correlation, and performance management.
+- [SolarWinds Security Event Manager](https://www.solarwinds.com/security-event-manager) - A SIEM solution that provides automated threat detection, event correlation, and incident response capabilities.
