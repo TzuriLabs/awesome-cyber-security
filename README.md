@@ -1,31 +1,58 @@
-# Cyber Security Tools
+# Cyber Security Awesome [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-> A list of cyber security tools that you can use for both red and blue teaming.
+> A bunch of resources containing learning resources, certifications, security frameworks, bug bounties, podcasts and tools used for cyber security. This repository focuses primarily on hands on stuffs instead of theoritical ones.
 
 ## Table of Contents
 
+- [Learning Resources](#learning-resources)
+  - [Basic Concepts](#basic-concepts)
+  - [Books](#books)
+  - [Youtube Channels](#youtube-channels)
+  - [Cyber Security Learning Platforms](#cyber-security-learning-platforms)
+  - [CTF Platforms](#ctf-platforms)
+- [Certifications](#certifications)
 - [Security Frameworks](#security-frameworks)
-- [Red Teaming](#red-teaming)
-  - [Web Application Pentesting](#web-application-pentesting)
-  - [Network Pentesting](#network-pentesting)
-  - [Mobile Application Pentesting](#mobile-application-pentesting)
-  - [Physical Pentesting](#physical-pentesting)
-  - [Adversary Simulation (Red Teaming)](#adversary-simulation)
-  - [Social Engineering](#social-engineering)
-- [Blue Teaming](#blue-teaming)
-  - [Network Security](#network-security)
-  - [Software Security](#software-security)
-  - [Incident Response](#incident-response)
-  - [Threat Hunting](#threat-hunting)
-  - [Vulnerability Management](#vulnerability-management)
-  - [SOC Management](#soc-management)
-  - [Log and Data Analysis](#log-analysis)
-  - [Security Policy and Compliance](#security-policy)
-  - [User Awareness and Training](#user-awareness-)
+- [Bug Bounties](#bug-bounties)
+- [Podcasts](#podcasts)
+- [Tools](#tools)
+  - [Red Teaming](#red-teaming)
+    - [Web Application Pentesting](#web-application-pentesting)
+    - [Network Pentesting](#network-pentesting)
+  - [Blue Teaming](#blue-teaming)
+    - [Software Security](#software-security)
+    - [Network Security](#network-security)
+    - [Forensics](#forensics)
 
-## Red Teaming
+## Learning Resources
+
+> Some learning resources which includes basic concepts, books, youtube channels, CTF platforms and certifications
+
+### Basic Concepts
+
+- [Networking fundamentals (HackTheBox Academy)](https://academy.hackthebox.com/module/details/34)
+- [Linux OS fundamentals (HackTheBox Academy)](https://academy.hackthebox.com/module/details/18)
+- [Web programming fundamentals: HTML and CSS basics (Freecodecamp)](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+- [Web programming fundamentals: Javascript basics (Freecodecamp)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
+- [Programming fundamentals: Python basics (Freecodecamp)](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
+- [Web fundamentals (Angela Yu, Udemy)](https://www.udemy.com/share/1013gG3@XBrdbm-eaGL_qfZudC5lNK8rYkRD1QJX7AfJkYLBNN7t7BW9sUOvb9OwKJuBKOMH/)
+- [Relational Database fundamentals with SQL (Freecodecamp)](https://www.freecodecamp.org/learn/relational-database/)
+- [Backend API fundamentals using Expressjs (Freecodecamp)](https://www.freecodecamp.org/learn/back-end-development-and-apis/)
+
+### Books
+
+- [Web Application Hacker's Handbook](https://books.google.co.id/books/about/The_Web_Application_Hacker_s_Handbook.html?id=NSBHAAAAQBAJ&source=kp_book_description&redir_esc=y)
+
+### Youtube Channels
+
+### Cyber Security Learning Platforms
+
+### CTF Platforms
+
+## Certifications
+
+## Bug Bounties
+
+## Tools
 
 ### Penetration Testing
 
@@ -86,3 +113,5 @@
 - [Timestomp](https://viperone.gitbook.io/pentest-everything/everything/everything-active-directory/defense-evasion/indicator-removal/timestomp) - A tool that allows users to modify file timestamps to obscure evidence of access or modification.
 - [Sysinternals Suite](https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite) - A collection of utilities (like PsExec) that can help manage and hide processes, as well as clear logs.
 - [Rootkits](https://www.kaspersky.com/resource-center/definitions/what-is-rootkit) - Though illegal and unethical for legitimate pentesting, rootkits can hide files and processes from detection.
+
+## Red Teaming
