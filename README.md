@@ -30,25 +30,25 @@
 
 ### Basic Concepts
 
-- [Networking fundamentals (HackTheBox Academy)](https://academy.hackthebox.com/module/details/34)
-- [Practical Networking](https://github.com/arsitektur-jaringan-komputer/Modul-Jarkom)
-- [Linux OS fundamentals (HackTheBox Academy)](https://academy.hackthebox.com/module/details/18)
-- [Practical OS fundamentals](https://github.com/arsitektur-jaringan-komputer/Modul-Sisop)
-- [Web programming fundamentals: HTML and CSS basics (Freecodecamp)](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
-- [Web programming fundamentals: Javascript basics (Freecodecamp)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
-- [Programming fundamentals: Python basics (Freecodecamp)](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
-- [Web fundamentals (Angela Yu, Udemy)](https://www.udemy.com/share/1013gG3@XBrdbm-eaGL_qfZudC5lNK8rYkRD1QJX7AfJkYLBNN7t7BW9sUOvb9OwKJuBKOMH/)
-- [Relational Database fundamentals with SQL (Freecodecamp)](https://www.freecodecamp.org/learn/relational-database/)
-- [Backend API fundamentals using Expressjs (Freecodecamp)](https://www.freecodecamp.org/learn/back-end-development-and-apis/)
+- [Networking fundamentals (HackTheBox Academy)](https://academy.hackthebox.com/module/details/34) - An introduction to networking concepts, protocols, and architecture, designed to build a foundation for cybersecurity.
+- [Practical Networking](https://github.com/arsitektur-jaringan-komputer/Modul-Jarkom) - A GitHub repository providing practical learning modules for computer networking fundamentals.
+- [Linux OS fundamentals (HackTheBox Academy)](https://academy.hackthebox.com/module/details/18) - A course covering the essential concepts and tools of the Linux operating system for cybersecurity purposes.
+- [Practical OS fundamentals](https://github.com/arsitektur-jaringan-komputer/Modul-Sisop) - A resource that provides practical knowledge on operating system fundamentals, focusing on key concepts like processes and memory management.
+- [Web programming fundamentals: HTML and CSS basics (Freecodecamp)](https://www.freecodecamp.org/learn/2022/responsive-web-design/) - A beginner-friendly course covering the fundamentals of HTML and CSS for building web pages.
+- [Web programming fundamentals: Javascript basics (Freecodecamp)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) - A comprehensive course teaching JavaScript programming, focusing on algorithms and data structures.
+- [Programming fundamentals: Python basics (Freecodecamp)](https://www.freecodecamp.org/learn/scientific-computing-with-python/) - A course teaching the basics of Python programming, designed for beginners and covering fundamental concepts.
+- [Web fundamentals (Angela Yu, Udemy)](https://www.udemy.com/share/1013gG3@XBrdbm-eaGL_qfZudC5lNK8rYkRD1QJX7AfJkYLBNN7t7BW9sUOvb9OwKJuBKOMH/) - A comprehensive course on web development covering HTML, CSS, JavaScript, and backend fundamentals.
+- [Relational Database fundamentals with SQL (Freecodecamp)](https://www.freecodecamp.org/learn/relational-database/) - A course that teaches relational database concepts and SQL for querying and managing databases.
+- [Backend API fundamentals using Expressjs (Freecodecamp)](https://www.freecodecamp.org/learn/back-end-development-and-apis/) - A course focused on building backend APIs using Express.js, teaching how to handle HTTP requests and data.
 
 ### Books
 
-- [Web Application Hacker's Handbook](https://books.google.co.id/books/about/The_Web_Application_Hacker_s_Handbook.html?id=NSBHAAAAQBAJ&source=kp_book_description&redir_esc=y)
-- [Hacking: The Art of Exploitation, 2nd Edition]()
-- [Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali]()
-- [CompTIA Security+ SY0-701 Certification Guide: Master Cybersecurity Fundamentals and Pass the SY0-701 Exam on Your First Attempt]()
-- [Black Hat Python, 2nd Edition: Python Programming for Hackers and Pentesters]()
-- [Cryptography and Network Security: Principles and Practice]()
+- [Web Application Hacker's Handbook](https://books.google.co.id/books/about/The_Web_Application_Hacker_s_Handbook.html?id=NSBHAAAAQBAJ&source=kp_book_description&redir_esc=y) - A comprehensive guide to discovering, exploiting, and securing web application vulnerabilities.
+- [Hacking: The Art of Exploitation, 2nd Edition](https://nostarch.com/hacking2.htm) - A deep dive into the techniques and concepts behind hacking and security, with a focus on coding and exploitation.
+- [Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali](https://nostarch.com/linuxbasicsforhackers) - An introduction to Linux and essential hacking skills using the Kali Linux distribution.
+- [CompTIA Security+ SY0-701 Certification Guide: Master Cybersecurity Fundamentals and Pass the SY0-701 Exam on Your First Attempt](https://www.amazon.com/CompTIA-Security-SY0-701-Certification-Guide/dp/1805128773) - A study guide that covers all the cybersecurity topics required to pass the Security+ certification exam.
+- [Black Hat Python, 2nd Edition: Python Programming for Hackers and Pentesters](https://nostarch.com/blackhatpython2e) - A book that teaches Python programming techniques for writing security tools and scripts for penetration testing.
+- [Cryptography and Network Security: Principles and Practice](https://www.pearson.com/en-us/subject-catalog/p/cryptography-and-network-security-principles-and-practice/P200000004848/9780134444284) - A detailed book that explains cryptographic techniques and how they apply to network security.
 
 ### Youtube Channels
 
@@ -116,6 +116,8 @@
 - [Cisco Certified CyberOps Associate](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/cyberops-associate.html) - A certification providing knowledge and skills for security operations in network environments.
 
 ## Bug Bounties
+
+## Podcasts
 
 ## Tools
 
