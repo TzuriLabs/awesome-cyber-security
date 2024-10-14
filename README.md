@@ -117,8 +117,22 @@
 
 ## Bug Bounties
 
+- [Hackerone](https://www.hackerone.com) - A leading bug bounty platform that connects businesses with ethical hackers to find and report security vulnerabilities.
+- [Bugcrowd](https://www.bugcrowd.com) - A crowdsourced cybersecurity platform offering bug bounty programs to help organizations identify and fix vulnerabilities.
+- [Yeswehack](https://www.yeswehack.com) - A global bug bounty platform providing opportunities for ethical hackers to find vulnerabilities in various organizations' systems.
+- [Patchstack](https://patchstack.com) - A bug bounty platform focused on securing WordPress plugins and themes through vulnerability disclosure and patching.
+- [Redstorm.io](https://redstorm.io) - A bug bounty platform that allows hackers to report vulnerabilities in exchange for rewards, focusing on improving cybersecurity for businesses.
+- [app.cyberarmy.id](https://app.cyberarmy.id) - An Indonesian bug bounty platform connecting security researchers with companies to help them identify and resolve vulnerabilities.
+
 ## Podcasts
 
+- [David Bombal Podcast](https://open.spotify.com/show/1DR3S0XkKRLbt3VMU0p7fW) - A podcast hosted by David Bombal, covering cybersecurity topics, networking, and tech interviews with industry experts.
+- [Darknet Diaries](https://open.spotify.com/show/4XPl3uEEL9hvqMkoZrzbx5) - A storytelling podcast focused on true stories from the dark side of the internet, including hacking and cybercrime.
+- [The IT Career Podcast](https://open.spotify.com/show/1Ysb7zVLdpqMZG3sRneKVF) - A podcast offering insights into IT careers, cybersecurity, and practical advice for getting started or advancing in the field.
+- [Critical Thinking Bug Bounties Podcast](https://open.spotify.com/show/0rZlcnYytHBHDDIa4T8DJ9) - A podcast focusing on bug bounties, ethical hacking, and vulnerability disclosure, featuring discussions with security experts.
+- [Hacker Valley Media](https://open.spotify.com/show/2KLs5TUn0SP89ohugcpVg1) - A podcast exploring various cybersecurity topics, from hacking stories to mental health in the cybersecurity industry.
+- [Hack The Box Podcast](https://open.spotify.com/show/7gZfFFV5YYR8rfk0edMrzC) - The official Hack The Box podcast that discusses ethical hacking, cybersecurity challenges, and interviews with security professionals.
+- [Langley Files](https://open.spotify.com/show/72dVchCyKQD5p8UYv4hwA9) - A podcast by the CIA offering a behind-the-scenes look at intelligence, cybersecurity, and national security issues.
 ## Tools
 
 ### Web Application Pentesting
