@@ -23,6 +23,8 @@
   - [Software Security](#software-security)
   - [Network Security](#network-security)
   - [Forensics](#forensics)
+- [Misc](#misc)
+  - [More awesome repos](#more-awesome-repos-actively-maintained)  
 
 ## Learning Resources
 
@@ -255,3 +257,14 @@
 - [Rapid7 InsightIDR](https://www.rapid7.com/products/insightidr/) - A cloud-based SIEM tool that focuses on detecting intrusions, investigating security incidents, and automating responses.
 - [Fortinet FortiSIEM](https://www.fortinet.com/products/siem/fortisiem) - A comprehensive SIEM that combines real-time monitoring, event correlation, and performance management.
 - [SolarWinds Security Event Manager](https://www.solarwinds.com/security-event-manager) - A SIEM solution that provides automated threat detection, event correlation, and incident response capabilities.
+
+## Misc
+
+> Varied resources in a plethora of topics
+
+### More Awesome Repos (actively maintained)
+
+- [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge?tab=readme-ov-file#your-daily-knowledge-and-news-toc) - A huge collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+- [awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence) - A curated list of Awesome Threat Intelligence resources.
+- [awesome-osint](https://github.com/jivoi/awesome-osint) - A curated list of amazingly awesome Open-Source Intelligence.
+- [awesome-cyber-skills](https://github.com/joe-shenouda/awesome-cyber-skills) - A curated list of hacking environments where you can train your cyber skills.
