@@ -172,6 +172,7 @@
 - [XSSer](https://github.com/epsylon/xsser) - a tool to exploit XSS vulnerabilities.
 - [Burpsuite (Intruder)](https://portswigger.net/burp) - Besides scanning, Burp's Intruder tool can be used for brute-forcing and payload injection.
 - [Hydra](https://github.com/vanhauser-thc/thc-hydra) - A popular password-cracking tool used for conducting rapid dictionary attacks against various protocols.
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open-source (GPL-3.0) autonomous AI penetration-testing platform and MCP host that drives per-technology offensive sub-agents to exploit web, Active Directory, and Kubernetes targets, with a local LLM and an evidence trail per finding.
 - [BeEF](https://beefproject.com/) - a powerful tool that can perform various tasks aimed at exploiting vulnerabilities in web browsers.
 
 ### Network Pentesting
