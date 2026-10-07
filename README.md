@@ -53,6 +53,7 @@
 - [Pwnable](https://pwnable.tw/) - A site with reverse engineering and binary exploitation challenges designed to improve hacking skills.
 - [PwnCollege](https://pwn.college/) - An educational platform offering courses on cybersecurity, with a focus on binary exploitation and advanced topics.
 - [Crackmes](https://crackmes.one/) - A community-driven platform where users can solve reverse engineering challenges (crackmes) to enhance their skills.
+- [Courseiva](https://courseiva.com/) - A free platform with practice questions for security certifications such as Security+ and ISC2 CC, plus browser-based labs including a phishing simulator.
 
 ### Books
 
