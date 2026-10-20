@@ -166,6 +166,7 @@
 - [OWASP ZAP](https://www.zaproxy.org/) - An open-source web application security scanner that helps find security vulnerabilities in web applications.
 - [Nikto](https://github.com/sullo/nikto) - A web server scanner that performs comprehensive tests against web servers for multiple items, including outdated server software, and vulnerabilities.
 - [Acunetics](https://www.acunetix.com/) - An automated web application security scanner that checks for vulnerabilities like SQL injection, XSS, and more.
+- [Website Vulnerability Scanner](https://github.com/RanaKhan77/Website-Vulnerability-Scanner) - A self-hosted web vulnerability scanner with 200 deterministic modules covering the OWASP Top 10, WordPress/CMS surfaces and AI/LLM exposure, with PDF reporting and continuous monitoring.
 
 #### 3. Gaining Access / Exploitation
 
