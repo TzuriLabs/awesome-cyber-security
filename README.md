@@ -159,6 +159,7 @@
 
 - [Recon-ng](https://github.com/lanmaster53/recon-ng) - A web reconnaissance framework that provides a powerful environment for open-source web-based reconnaissance.
 - [Google Dorking](https://www.exploit-db.com/google-hacking-database) - A technique that uses advanced Google search operators to find sensitive information exposed on the web.
+- [Profundis](https://profundis.io/) - Find subdomains and explore connections between websites through DNS, IPs and TLS certificates.
 
 #### 2. Scanning & Enumeration
 
