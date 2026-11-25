@@ -250,6 +250,7 @@
 - [Wordpress honeypots](https://github.com/orthros/dorknet) - Honeypot setups specifically designed to capture attacks targeting vulnerabilities in WordPress installations.
 - [Honeyd](http://www.honeyd.org/) - A versatile low-interaction honeypot that simulates various network services and hosts to detect and log network activity.
 - [Mongodb honeypot proxy](https://github.com/chrislockard/mongo_honeypot) - A honeypot proxy that simulates MongoDB servers to capture and analyze malicious activity targeting exposed databases.
+- [WebDecoy API Honeypots](https://webdecoy.com/product/endpoints/) - Hosted HTTP endpoint decoys that record probes to unused API paths.
 
 #### SIEM
 
